@@ -34,13 +34,13 @@ void stringmatch() {
 }
 
 int main() {
-    printf("\nEnter a main string\n");
+    printf("\nEnter  main string\n");
     gets(str);
 
-    printf("\nEnter a pattern string\n");
+    printf("\nEnter  pattern string\n");
     gets(pat);
 
-    printf("\nEnter a replace string\n");
+    printf("\nEnter  replace string\n");
     gets(rep);
 
     stringmatch();
