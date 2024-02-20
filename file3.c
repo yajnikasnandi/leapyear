@@ -37,7 +37,7 @@ int main() {
     printf("\nEnter a main string\n");
     gets(str);
 
-    printf("\nEnter a pattern string\n");
+    printf("\nEnter a  pattern string\n");
     gets(pat);
 
     printf("\nEnter a replace string\n");
