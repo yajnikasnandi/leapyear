@@ -38,12 +38,12 @@ void palindrome() {
     if (temp == count)
         printf("Palindrome\n");
     else
-        printf("Not a palindrome\n");
+        printf("Not  palindrome\n");
 }
 
 void display() {
     int i;
-    printf("Stack elements are:\n");
+    printf("Stack elements :\n");
 
     for (i = top; i >= 0; i--)
         printf("%d\n", stack[i]);
